@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="HOME"
+        android:icon="@drawable/ic_outline_home_24"
+        android:id="@+id/home"/>
+    <item android:title="Categry"
+        android:icon="@drawable/ic_outline_category"
+        android:id="@+id/category"/>
+    <item android:title="Orders"
+        android:icon="@drawable/ic_outline_shopping_bag_24"
+        android:id="@+id/orders"/>
+    <item
+        android:id="@+id/cart"
+        android:icon="@drawable/ic_outline_shopping_cart_24"
+        android:title="Cart" />
+    <item android:title="Profile"
+        android:icon="@drawable/ic_outline_person"
+        android:id="@+id/profile"/>
+</menu>

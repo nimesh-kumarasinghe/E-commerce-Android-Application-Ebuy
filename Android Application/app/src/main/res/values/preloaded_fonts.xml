@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/sulphur_point</item>
+        <item>@font/sulphur_point_bold</item>
+    </array>
+</resources>

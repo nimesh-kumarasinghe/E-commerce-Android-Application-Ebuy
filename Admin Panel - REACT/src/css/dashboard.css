@@ -1,0 +1,30 @@
+.dash_main{
+    
+}
+#dash_id{
+    text-align: center;
+
+    color: rgb(0, 0, 0);
+}
+#des_text{
+    text-align: center;
+}
+
+.btn_links{
+    display: flex;
+    justify-content: center;
+}
+
+.btn_links a{
+    margin-right:12px;
+    border: solid 1px;
+    padding: 12px 12px 12px 12px;
+    border-radius: 10px;
+    text-decoration: none;
+    border-color: black;
+}
+
+.btn_links a:hover{
+    background-color:rgb(0, 0, 0);
+    color: white;
+}

@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Ebuy</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="head_1">Home</string>
+    <string name="head_2">Bags and Shoes</string>
+    <string name="head_3">Health and Beauty</string>
+    <string name="head_4">Books, Movies and Music</string>
+    <string name="head_5">Sporting Goods</string>
+    <string name="head_6">Jewelry and Watches</string>
+    <string name="head_7">Phones and Telecommunications</string>
+    <string name="head_8">Toys and Hobbies</string>
+    <string name="head_9">Electronics</string>
+    <string name="head_10">Garden</string>
+
+
+    <string name="name1">Item One</string>
+    <string name="name2">Item Two</string>
+
+
+    <string name="price1">LKR 2000</string>
+    <string name="price2">LKR 1200</string>
+
+    <string name="desc">Item Description is here</string>
+
+    <string name="qty">QTY 100</string>
+    <string name="title_activity_category_product_item">CategoryProductItem</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="date">Order Date is here</string>
+
+
+</resources>

@@ -1,0 +1,35 @@
+
+#login{
+    display: flex;
+    position: absolute;
+    left:45%;
+    top: 20%;
+}
+#login-form{
+    border: solid 1px;
+    padding: 50px 50px 50px 50px;
+    border-radius: 10px;
+    background: white;
+}
+#email,
+#password,#submit,#re-password{
+    border-radius: 8px;
+    border:solid 1px;
+    border-color: gray;
+    padding: 10px 10px 10px 10px;
+}
+#email,#password,#re-password{
+    width: 100%;
+    font-size: 18px;
+    margin-top:15px;
+}
+#submit{
+    width:100%;
+    margin-top:15px;
+    font-size:18px;
+    background-color: #4CAF50;
+}
+
+#login_txt{
+    margin-left: 30%;
+}
